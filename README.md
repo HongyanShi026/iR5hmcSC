@@ -1,5 +1,5 @@
 # iR5hmcSC
-# <center> iR5hmcSC:Identifying RNA 5-Hydroxymethylcytosine with multiple features based on stacking learning </center>
+# <center> iR5hmcSC:Identifying RNA 5-hydroxymethylcytosine with multiple features based on stacking learning </center>
 
 ## Authors: Shengli Zhang, Hongyan Shi
 
